@@ -7,7 +7,7 @@ def loop_iterator(number_of_times)
   loop do 
     looper = looper + 1 
     puts phrase 
-    if looper >= 
+    if looper >= number_of_times
   
 end
 
