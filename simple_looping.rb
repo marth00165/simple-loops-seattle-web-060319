@@ -10,6 +10,7 @@ def loop_iterator(number_of_times)
     if looper >= number_of_times.to_i 
       break
     end
+  end
   
 end
 
