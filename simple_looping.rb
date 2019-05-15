@@ -8,6 +8,8 @@ def loop_iterator(number_of_times)
     looper = looper + 1 
     puts phrase 
     if looper >= number_of_times.to_i 
+      break
+      
   
 end
 
