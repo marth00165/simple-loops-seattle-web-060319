@@ -6,6 +6,8 @@ def loop_iterator(number_of_times)
   looper = 0 
   loop do 
     looper = looper + 1 
+    puts phrase 
+    
   
 end
 
