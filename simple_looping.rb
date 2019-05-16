@@ -33,6 +33,7 @@ def while_iterator(number_of_times)
   
   puts phrase
   
+  chicken += 1 
   
   
 end
