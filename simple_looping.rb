@@ -47,6 +47,8 @@ until chicken == number_of_times.to_i
 
 puts phrase
 
+chicken += 1 
+
 end
 
 end
