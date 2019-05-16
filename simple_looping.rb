@@ -43,7 +43,7 @@ def until_iterator(number_of_times)
   phrase = "Welcome to Flatiron School's Web Development Course!"
 chicken = 0 
 
-until chicken == number_of_times
+until chicken == number_of_times.to_i
 
 puts phrase
 
