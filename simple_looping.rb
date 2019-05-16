@@ -31,6 +31,7 @@ def while_iterator(number_of_times)
   
   while chicken < number_of_times
   
+  puts phrase
   
   
   
